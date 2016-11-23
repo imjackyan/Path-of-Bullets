@@ -76,7 +76,7 @@
             "exp":0,
             "levelexp":100,
             "type":"ship",
-            "description":"",
+            "description":"ship kil many shippo",
             "tier":4,
             "price":40000,
             "growth":{"hp":3,"damage":4,"APS":1},
@@ -90,8 +90,8 @@
             "dx":0,"dy":0,
             "width":20,
             "height":20,
-            "image":"img/player.png",
-            "sprite":"img/playersprite.png",
+            "image":"img/harry.png",
+            "sprite":"img/harry.png",
             "bulletTypes":{
                 "spread": 0, "cluster": 2, "auto":0
             },
